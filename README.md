@@ -7,7 +7,7 @@ A tool that uses a discord user's account token to log each of their private mes
 
 `cd discord.spy`
 
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 `python3 discordspy.py`
 
